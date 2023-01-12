@@ -9,7 +9,7 @@ not an interesting title
 
 [This is a link](https://commonmark.org/help/)
 
-![Computer](http://url/b.jpg)
+![Image](http://url/b.jpg)
 
 > Blockquote
 
