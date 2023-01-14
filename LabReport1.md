@@ -7,4 +7,4 @@
 <img width="736" alt="Screen Shot 2023-01-11 at 3 38 13 PM" src="https://user-images.githubusercontent.com/110351703/212498619-36f5c48a-e9da-465f-a13a-fb68bbd3db10.png">
 4. Now, you can try running some commands remotely. Try using `cd` or `pwd`. Here's an example after running `ls -lat`, which lists out all of the files and their dates.
 <img width="578" alt="Screen Shot 2023-01-14 at 1 52 14 PM" src="https://user-images.githubusercontent.com/110351703/212498671-2282f9ce-86d4-41bf-93dc-7856e0ebb49c.png">
-Now you've successfully logged in and run some commands!
+5. Now you've successfully logged in and run some commands!
